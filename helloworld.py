@@ -3,3 +3,5 @@
 # Hello world program 
 
 print "Hello World"
+print "Lets make a difference" 
+
