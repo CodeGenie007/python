@@ -1,6 +1,7 @@
 #!/usr/bin/python
+ 
+import time
 
-import datetime 
+print "Today is ", time.strftime("%A")
 
-print "Today is", datetime.date.today().strftime("%A")
 
