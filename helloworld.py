@@ -5,5 +5,4 @@
 print "Hello World"
 print "Lets make a difference" 
 print "Test 123"
-print "bla bla"
-print "cla cla"
+print "fuck is this going to work or what"
