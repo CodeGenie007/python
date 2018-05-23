@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-age = int(input( "how old are you? " ))
+age = int(input( "\n\nHow old are you? " ))
 if age <= 9:
     print("must be nice")
 elif 9 < age < 19:
@@ -19,6 +19,9 @@ i = 1
 while i < 10:
     print (i),
     i = i + 2   
+
+
+
 
 
 

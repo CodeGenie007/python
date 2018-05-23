@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 countdown = 10
 
 while countdown > 0 :
